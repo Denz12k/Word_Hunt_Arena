@@ -1,0 +1,8 @@
+{
+  "serverHost": "localhost",
+  "tcpPort": 5555,
+  "rmiPort": 1099,
+  "matchDurationSeconds": 90,
+  "boardSize": 12,
+  "minWordLength": 3
+}

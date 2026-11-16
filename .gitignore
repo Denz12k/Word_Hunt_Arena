@@ -1,0 +1,25 @@
+# Maven build output
+target/
+
+# Compiled Java classes & packages
+*.class
+*.jar
+*.war
+*.ear
+
+# SQLite local database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE & OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary audit/proposal files (keep repo clean)
+proje_degerlendirme.md
+SE360_Proje_Fikri_Kelime_Avi_Arenasi.pdf
